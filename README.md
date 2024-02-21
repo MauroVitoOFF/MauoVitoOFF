@@ -30,8 +30,6 @@ console.log("I am currently pursuing my studies in " + profile.study.field + " a
 ## Languages
 console.log("The languages I work with are: " + profile.languages.join(', '));
 
-console.log("I look forward to collaborating with you on interesting projects!");
-
 ````
 
 ###### **I CAN SPEAK**
